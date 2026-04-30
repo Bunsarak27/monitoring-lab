@@ -1,0 +1,18 @@
+{
+	"ulid": "01KQE5N88HDVKM761Q0XF70FN8",
+	"minTime": 1777507611057,
+	"maxTime": 1777514400000,
+	"stats": {
+		"numSamples": 186606,
+		"numFloatSamples": 186606,
+		"numSeries": 1031,
+		"numChunks": 2062
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KQE5N88HDVKM761Q0XF70FN8"
+		]
+	},
+	"version": 1
+}

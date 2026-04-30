@@ -1,0 +1,11 @@
+- targets:
+    - http://prometheus.io
+  labels:
+    name: Prometheus
+    type: public
+
+- targets:
+    - http://example.com
+  labels:
+    name: Example
+    type: public

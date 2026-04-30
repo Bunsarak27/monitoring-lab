@@ -1,0 +1,18 @@
+{
+	"ulid": "01KQDYV49QWQE90RK9X171JBZX",
+	"minTime": 1777500357779,
+	"maxTime": 1777507200000,
+	"stats": {
+		"numSamples": 80423,
+		"numFloatSamples": 80423,
+		"numSeries": 1031,
+		"numChunks": 1031
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KQDYV49QWQE90RK9X171JBZX"
+		]
+	},
+	"version": 1
+}
